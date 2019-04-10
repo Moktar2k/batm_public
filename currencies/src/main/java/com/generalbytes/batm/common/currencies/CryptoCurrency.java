@@ -86,6 +86,7 @@ public enum CryptoCurrency {
     VOLTZ("VOLTZ"),
     WDC("WorldCoin"),
     XMR("Monero"),
+    XSG("Snowgem"),
     XZC("Zcoin"),
     NULS("NULS"),
 
